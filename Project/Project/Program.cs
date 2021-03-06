@@ -7,7 +7,7 @@ namespace Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Зміни_1");
+            Console.Write("Рядок змінено");
         }
     }
 }
